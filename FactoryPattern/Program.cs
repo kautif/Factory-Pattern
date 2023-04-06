@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            VehicleFactory.GetVehicle(4);
             Console.WriteLine("Hello, World!");
         }
     }
